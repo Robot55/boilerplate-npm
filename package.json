@@ -1,6 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author": "John Doe Robot55",
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
